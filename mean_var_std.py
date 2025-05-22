@@ -5,4 +5,4 @@ def calculate(list):
 
 
 
-    return calculations
+return calculations
